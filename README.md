@@ -114,11 +114,8 @@
   - [ ] Break out the cage https://tryhackme.com/room/breakoutthecage1
   - [ ] Lian Yu https://tryhackme.com/room/lianyu
 
-
 ## Plataformas
 - [HackerSec](https://hackersec.com/ctf/)
 - [TryHackMe](https://tryhackme.com)
 - [HackThisSite](https://www.hackthissite.org/)
-
-
   
