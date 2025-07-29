@@ -1,5 +1,9 @@
 # HackRunnerCTF
 
+<p align="center">
+  <img src="https://www.cybher.org/wp-content/uploads/2023/08/capture-the-flag.jpg" alt="Capture The Flag Banner" width="100%">
+</p>
+
 *Resoluções de desafios e máquinas de CTF (capture the flag) na HackerSec, TryHackMe e HackThisSite.*
 
 ## [HackerSec]
