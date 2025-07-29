@@ -1,4 +1,4 @@
-# TheWayOfCTF
+# HackRunnerCTF
 
 *Resoluções de desafios e máquinas de CTF (capture the flag) na HackerSec, TryHackMe e HackThisSite.*
 
